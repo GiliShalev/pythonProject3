@@ -1,5 +1,6 @@
 #1
 import math
+from ftplib import print_line
 
 l = 42
 w = 52
@@ -12,6 +13,9 @@ print(f"Hekef is: {h}")
 print("Hekef is:", h)
 print("Hello ", end='')
 print("Gil")
+l_name = "Shalev"
+f_name = "Gil"
+print(f_name  + "\n" + l_name)
 
 #2
 r = 12
