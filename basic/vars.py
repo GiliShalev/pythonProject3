@@ -16,6 +16,7 @@ print("Gil")
 l_name = "Shalev"
 f_name = "Gil"
 print(f_name  + "\n" + l_name)
+print()
 
 #2
 r = 12
