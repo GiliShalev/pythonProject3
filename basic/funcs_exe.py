@@ -44,3 +44,12 @@ for city in cities:
         cities.remove(city)
 
 print(cities)
+
+def return_few_values():
+    return 4, 56, 8
+
+d = return_few_values()
+print(d[0])
+
+a, b, c = return_few_values()
+print(b)
