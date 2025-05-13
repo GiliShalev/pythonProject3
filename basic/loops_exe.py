@@ -10,8 +10,10 @@ if len(f_name) > len(l_name):
 else:
     print('l_name', l_name)
 
+f_name = "Gili"
 f_name_len = 0
-for c in f_name:
+for char in f_name:
+    print(char)
     f_name_len += 1
 
 l_name_len = 0

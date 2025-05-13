@@ -4,11 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0441d8e0-1707-4a47-817d-8c290a99d05c" name="Changes" comment="funcs_exe.py">
-      <change afterPath="$PROJECT_DIR$/oop/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/classes_and_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/flight_app.py" afterDir="false" />
+    <list default="true" id="0441d8e0-1707-4a47-817d-8c290a99d05c" name="Changes" comment="First Python">
+      <change afterPath="$PROJECT_DIR$/class_work/Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/arrays1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/asd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/class_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/classes and objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/cond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/cond_exe_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/dict_exe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/funcs_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/lists - my exe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/loops - for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/loops_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/loops_while_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/my_funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/vars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_work/vars_exe_solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/exe_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/inherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/ssss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/travel_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium/my_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/flight/flight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/flight/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/flight/passenger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/furniture_store/Chair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/furniture_store/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/mobile_store/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solutions/mobile_store/store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/loops_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/loops_exe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/my_loops_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/my_loops_exe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/my_vars_exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/my_vars_exe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vars.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/flight_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/flight_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,40 +79,65 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2wDEEitSrFERoPbfRg0BZL9VD37" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.classes_and_objects.executor": "Run",
-    "Python.conditions.executor": "Run",
-    "Python.conditions_exe.executor": "Run",
-    "Python.dict.executor": "Run",
-    "Python.flight_app.executor": "Run",
-    "Python.funcs_exe.executor": "Run",
-    "Python.lists.executor": "Run",
-    "Python.loops.executor": "Debug",
-    "Python.loops_exe.executor": "Run",
-    "Python.my_lists_exe.executor": "Run",
-    "Python.my_loops_exe.executor": "Run",
-    "Python.my_vars_exe.executor": "Run",
-    "Python.strings.executor": "Run",
-    "Python.vars.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/97254/JB/pythonProject3/oop"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Chair.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classes and objects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditions_exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe_classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flight.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flight_app (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.flight_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcs_exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcs_solutions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inherit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists - my exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.loops_exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_funcs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_lists_exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_loops_exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_vars_exe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.passenger (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.passenger.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ssss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.store.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.travel_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vars.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/97254/JB/pythonProject3/basic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\97254\JB\pythonProject3\oop" />
       <recent name="C:\Users\97254\JB\pythonProject3\basic" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jbt\PycharmProjects\pythonProject3\solutions\flight" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.flight_app">
-    <configuration name="classes_and_objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.store">
+    <configuration name="Chair" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,11 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/furniture_store" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/classes_and_objects.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/furniture_store/Chair.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="flight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/flight" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/dict.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/flight/flight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flight_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/flight" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/flight_app.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/flight/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="funcs_exe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="passenger (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +215,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/flight" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/funcs_exe.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/flight/passenger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_lists_exe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +238,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solutions/mobile_store" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/my_lists_exe.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solutions/mobile_store/store.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,18 +254,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.flight_app" />
-        <item itemvalue="Python.classes_and_objects" />
-        <item itemvalue="Python.funcs_exe" />
-        <item itemvalue="Python.dict" />
-        <item itemvalue="Python.my_lists_exe" />
+        <item itemvalue="Python.store" />
+        <item itemvalue="Python.Chair" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.passenger (1)" />
+        <item itemvalue="Python.flight" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -209,6 +278,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745567635197</updated>
+      <workItem from="1746510788050" duration="22769000" />
+      <workItem from="1746942751924" duration="11188000" />
     </task>
     <task id="LOCAL-00001" summary="First Python">
       <option name="closed" value="true" />
@@ -250,29 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745657998833</updated>
     </task>
-    <task id="LOCAL-00006" summary="funcs_exe.py">
-      <option name="closed" value="true" />
-      <created>1745830810648</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1745830810648</updated>
-    </task>
-    <task id="LOCAL-00007" summary="funcs_exe.py">
-      <option name="closed" value="true" />
-      <created>1745831100686</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1745831100686</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Python" />
-    <MESSAGE value="funcs_exe.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="funcs_exe.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -307,7 +364,41 @@
           <line>50</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_work/funcs.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/class_work/car.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="len(self.passengers)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject3$Chair.coverage" NAME="Chair Coverage Results" MODIFIED="1746951922280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/furniture_store" />
+    <SUITE FILE_PATH="coverage/pythonProject3$flight.coverage" NAME="flight Coverage Results" MODIFIED="1746945967797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/flight" />
+    <SUITE FILE_PATH="coverage/pythonProject3$passenger__1_.coverage" NAME="passenger (1) Coverage Results" MODIFIED="1746946784730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/flight" />
+    <SUITE FILE_PATH="coverage/pythonProject3$exe_classes.coverage" NAME="exe_classes Coverage Results" MODIFIED="1746517762706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/pythonProject3$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1746520726782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/pythonProject3$funcs_solutions.coverage" NAME="funcs_solutions Coverage Results" MODIFIED="1746349880201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/pythonProject3$my_funcs.coverage" NAME="my_funcs Coverage Results" MODIFIED="1746359490805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/pythonProject3$store.coverage" NAME="store Coverage Results" MODIFIED="1746953187440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/mobile_store" />
+    <SUITE FILE_PATH="coverage/pythonProject3$funcs.coverage" NAME="funcs Coverage Results" MODIFIED="1746346599886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/pythonProject3$flight_app.coverage" NAME="flight_app Coverage Results" MODIFIED="1746529273258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/pythonProject3$car.coverage" NAME="car Coverage Results" MODIFIED="1746362843755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/pythonProject3$main.coverage" NAME="main Coverage Results" MODIFIED="1746948092999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions/flight" />
+    <SUITE FILE_PATH="coverage/pythonProject3$inherit.coverage" NAME="inherit Coverage Results" MODIFIED="1746531494515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/pythonProject3$flight_app__1_.coverage" NAME="passenger Coverage Results" MODIFIED="1746945217588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/solutions" />
+    <SUITE FILE_PATH="coverage/pythonProject3$classes_and_objects.coverage" NAME="classes and objects Coverage Results" MODIFIED="1746361130928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
+    <SUITE FILE_PATH="coverage/pythonProject3$travel_app.coverage" NAME="travel_app Coverage Results" MODIFIED="1746518370152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/pythonProject3$lists___my_exe.coverage" NAME="lists - my exe Coverage Results" MODIFIED="1746344919481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
   </component>
 </project>

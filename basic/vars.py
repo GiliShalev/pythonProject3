@@ -1,6 +1,5 @@
 #1
 import math
-from ftplib import print_line
 
 l = 42
 w = 52

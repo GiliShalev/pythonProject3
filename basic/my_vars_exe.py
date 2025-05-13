@@ -1,28 +1,28 @@
-# l_name = "Shalev"
-# f_name = "Gil"
-# print(f_name, l_name)
-# print(f_name)
-# print(l_name)
-# print(f_name  + "\n" + l_name)
-#
-# i = 2
-# j = 3
-# print(i + j)
-# print(str(i) + ' ' + str(j))
-#
-# print("Sum is: " + str(i + j))
-# print("Sum is:", i + j)
-# print(f"Sum is: {i + j}")
-#
-# i = int(input("Enter number"))
-# j = int(input("Enter a 2nd number"))
-# k = int(input("Enter a 2nd number"))
-# sum1 = i + j + k
-# print(sum1)
-# print(sum1 / 3)
-#
-# i = int(input("Enter number"))
-# print(i % 10)
+l_name = "Shalev"
+f_name = "Gil"
+print(f_name, l_name)
+print(f_name)
+print(l_name)
+print(f_name  + "\n" + l_name)
+
+i = 2
+j = 3
+print(i + j)
+print(str(i) + ' ' + str(j))
+
+print("Sum is: " + str(i + j))
+print("Sum is:", i + j)
+print(f"Sum is: {i + j}")
+
+i = int(input("Enter number"))
+j = int(input("Enter a 2nd number"))
+k = int(input("Enter a 2nd number"))
+sum1 = i + j + k
+print(sum1)
+print(sum1 / 3)
+
+i = int(input("Enter number"))
+print(i % 10)
 
 ii = 27
 jj = 4

@@ -29,17 +29,22 @@ class Car:
     def get_price(self):
         return self.price * self.vat
 class Flight:
-    passengers = {}
+    total_pass_in_all_flights = 0
     def __init__(self, from1, to, date, time, seats):
+        self.passengers = {}
         self.from1 = from1
         self.to = to
         self.date = date
         self.time = time
         self.seats = seats
 
-    total_pass_in_all_flights = 0
-
     def add_passenger(self, passenger):
+        if self.seats == len(self.passengers):
+            print("Too many passengers")
+            return
+        if passenger in self.passengers.keys():
+            print("Passenger already exist in flight")
+            return
         self.passengers[passenger.passport_num] = passenger
         Flight.total_pass_in_all_flights += 1
 
@@ -47,13 +52,12 @@ class Flight:
         return self.passengers[passport_num]
 
     def get_total_passengers(self):
-        return Flight.total_pass_in_all_flights
+        return self.total_pass_in_all_flights
 
     def get_total_passengers_in_flight(self):
         return len(self.passengers)
 
-
-class Passenger():
+class Passenger:
     def __init__(self, passport_num, first_name, last_name, meal, seat):
         self.passport_num = passport_num
         self.first_name = first_name
